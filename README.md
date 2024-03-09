@@ -2,3 +2,5 @@
 
 ## Closest Pair of Points in Linearithmic time
 [codewars addr](https://www.codewars.com/kata/5376b901424ed4f8c20002b7/train/javascript)
+
+### Solution 1 Divide and Conquer
